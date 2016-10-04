@@ -27,8 +27,31 @@ public class Lector {
 	    reader.close();
 	    
 	    for(Paciente p : pacientes){
-	    	System.out.println(p.getPrioridad());
+	    	if(p.getPrioridad().equals("a") || p.getPrioridad().equals("A")){
+	    		System.out.println(p.getPrioridad());
+	    	}
 	    }
+	    for(Paciente p : pacientes){
+	    	if(p.getPrioridad().equals("b") || p.getPrioridad().equals("B")){
+	    		System.out.println(p.getPrioridad());
+	    	}
+	    }
+	    for(Paciente p : pacientes){
+	    	if(p.getPrioridad().equals("c") || p.getPrioridad().equals("C")){
+	    		System.out.println(p.getPrioridad());
+	    	}
+	    }
+	    for(Paciente p : pacientes){
+	    	if(p.getPrioridad().equals("d") || p.getPrioridad().equals("D")){
+	    		System.out.println(p.getPrioridad());
+	    	}
+	    }
+	    for(Paciente p : pacientes){
+	    	if(p.getPrioridad().equals("e") || p.getPrioridad().equals("E")){
+	    		System.out.println(p.getPrioridad());
+	    	}
+	    }
+	    
 	}
 	
 }
