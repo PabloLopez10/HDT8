@@ -2,8 +2,7 @@
 //Algoritmos y Estructuras de Datos
 //Douglas Barrios
 //Seccion 30
-//Pablo Lopez 14509
-//Jennifer Barillas 
+//Pablo Lopez 14509 
 
 import java.io.IOException;
 

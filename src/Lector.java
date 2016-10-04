@@ -3,7 +3,6 @@
 //Douglas Barrios
 //Seccion 30
 //Pablo Lopez 14509
-//Jennifer Barillas 
 import java.io.BufferedReader;
 import java.io.FileNotFoundException;
 import java.io.FileReader;

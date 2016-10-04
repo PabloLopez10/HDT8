@@ -3,7 +3,7 @@
 //Douglas Barrios
 //Seccion 30
 //Pablo Lopez 14509
-//Jennifer Barillas 
+
 public class Paciente {
 	
 	private String nombre; 
